@@ -1,0 +1,47 @@
+* {
+    background-color: #BBDEFB;
+    padding: 10;
+    margin: 10;
+}
+
+a {
+    text-decoration: none;
+}
+
+body ul, li {
+    list-style: none;
+}
+
+body .logo img {
+    height: 60px;
+}
+
+body .gnb {
+    float: right;
+}
+
+body .gnb li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+body .g1 img {
+    width: 60px;
+    height: 60px;
+}
+
+body .g2 img {
+    width: 60px;
+    height: 60px;
+}
+
+body .g3 img {
+    width: 60px;
+    height: 60px;
+}
+
+body .g4 img {
+    width: 60px;
+    height: 60px;
+}
+
